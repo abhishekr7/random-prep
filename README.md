@@ -21,3 +21,9 @@ Process running continuously
 Why not directly visualize SQL OTLP 
 
 ## 29th Nov
+
+Random Forest
+
+ARIMA
+
+CRF
